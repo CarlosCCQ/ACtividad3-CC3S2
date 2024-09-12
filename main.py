@@ -3,4 +3,5 @@ def greet()
     print('Fixed bug in feature')
 greet()
 print('cherry pick this')
-This change is stashed
+print('Cherry pick this')
+print('Esto es la rama feature/team-feature')
